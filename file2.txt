@@ -1,2 +1,3 @@
 File2 - first line - file2.txt
 File2 - second line - file2.txt
+File2 - third line - file2.txt
